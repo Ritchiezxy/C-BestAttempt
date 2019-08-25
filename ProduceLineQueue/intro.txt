@@ -1,0 +1,2 @@
+This wile is used to implement producer-consumer model queue. 
+We can consume a value use pop function from a thread, and we also can produce a value use push function from other thread.
